@@ -1,0 +1,6 @@
+@PdfToImageService_HostAddress = http://localhost:5257
+
+GET {{PdfToImageService_HostAddress}}/pdf/
+Accept: application/json
+
+###

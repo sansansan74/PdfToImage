@@ -1,0 +1,110 @@
+# Программные файлы Visual Studio
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Резервные файлы Visual Studio
+*.bak
+*.swp
+*~
+
+# Временные файлы Visual Studio
+*.log
+*.tlog
+*.vcxproj.*.user
+
+# Файлы сборок
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+out/
+
+# Файлы NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+.nuget/
+
+# Кеши и временные файлы
+.vscode/
+.idea/
+*.log
+**/node_modules/
+**/bower_components/
+
+# Пользовательские конфигурации
+*.sln.docstates
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mac специфичные файлы
+.DS_Store
+
+# Linux специфичные файлы
+*~
+
+# Windows специфичные файлы
+Thumbs.db
+desktop.ini
+
+# Отчеты тестов, покрытие кода и статический анализ
+TestResults/
+Coverage/
+*.coverage
+*.coveragexml
+*.codecov
+*.pdb
+
+
+# Локальные настройки системы и временные файлы
+.env
+.env.local
+.env.*.local
+local.settings.json
+
+# Файлы сбора
+.vs/
+.idea/
+.vscode/
+*.code-workspace
+project.lock.json
+
+# ASP.NET/Entity Framework
+App_Data/
+App_Code/
+App_GlobalResources/
+App_LocalResources/
+App_Start/
+Global.asax
+Global.asax.cs
+web.config
+web.Debug.config
+web.Release.config
+
+# Резервные файлы
+*.bak
+*.old
+*.orig
+*.tmp
+
+# PublishOutput
+publish/
+wwwroot/
+node_modules/
+dist/
+bower_components/
+
+# JetBrains Rider специфичные файлы
+.idea/
+
+# Rider специфичные папки
+.idea/
+/PdfToImageSolution/PdfToImageService/Files
